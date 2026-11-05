@@ -29,6 +29,9 @@
 - [Men s health physician in Orlando](https://local-business-guides.github.io/svelte-medical-weight-loss-centers-orlando/men-s-health-physician-in-orlando/): Men s health physician in Orlando care for weight, energy, and wellness goals with medical guidance. Call Svelte Medical Weight Loss Centers to talk.
 - [Best men s health physician in Orlando](https://local-business-guides.github.io/svelte-medical-weight-loss-centers-orlando/best-men-s-health-physician/): Best men s health physician support in Orlando for weight and wellness planning. Speak with Svelte Medical Weight Loss Centers about your next step.
 
+## Newsroom
+- [Svelte Medical Weight Loss Centers Publishes Men's Health Guide in Orlando](https://local-business-guides.github.io/svelte-medical-weight-loss-centers-orlando/news/2026-11-05-svelte-medical-weight-loss-centers-publishes-men-s/): Svelte Medical Weight Loss Centers has published a guide to men's health physicians in Orlando, with related video and audio content. (2026-11-05)
+
 ## Pages
 - [Men'S Health Physician in Orlando, Florida](https://local-business-guides.github.io/svelte-medical-weight-loss-centers-orlando/): Get physician-supervised weight and wellness care tailored to your needs in Orlando. Call +1407-804-5200.
 - [About Svelte Medical Weight Loss Centers](https://local-business-guides.github.io/svelte-medical-weight-loss-centers-orlando/about/): About Svelte Medical Weight Loss Centers, Orlando.
@@ -36,4 +39,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/svelte-medical-weight-loss-centers-orlando/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/svelte-medical-weight-loss-centers-orlando/news/rss.xml)
 - [Main resource site](https://svelte-orlando-mens-health.localwebsites.chatgpt.site)
